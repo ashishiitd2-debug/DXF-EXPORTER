@@ -1,0 +1,12 @@
+[
+  {
+    "part_name": "12MM FIXTURING PIN-S2029 ROUND",
+    "filename": "12MM_FIXTURING_PIN-S2029_ROUND.dxf",
+    "instance_count": 1,
+    "classification": "projection",
+    "classification_reason": "Roughly cubic/chunky part (thin-axis ratio 0.54); not flat stock.",
+    "classification_confidence": "high",
+    "needs_review": false,
+    "preview_filename": "12MM_FIXTURING_PIN-S2029_ROUND.png"
+  }
+]
