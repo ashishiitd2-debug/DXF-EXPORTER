@@ -3,7 +3,7 @@
 Converts a STEP file (single part **or** full assembly) into one DXF per unique
 part, packaged as a zip with a manifest. Handles a mix of flat/sheet-metal
 parts and general 3D parts in the same assembly automatically.
-
+This is useful for Fusion 360 users.
 ## Why it's built this way
 
 STEP assemblies are a tree of **instances** pointing at a smaller set of
